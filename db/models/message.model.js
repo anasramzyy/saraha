@@ -17,5 +17,3 @@ export const messageSchema = new Schema(
 // Model
 
 export const Message = model("Message", messageSchema)
-
-judeuifioerfi
